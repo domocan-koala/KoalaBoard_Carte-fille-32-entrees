@@ -1,7 +1,9 @@
-# Carte fille 32 entrées version 1.0
+# Carte fille 32 entrÃ©es
 
-Carte fille 32 entrées compatible KoalaBoard pour le système domotique [Domocan](https://www.abcelectronique.com/bigonoff/forum/index.php)
+![Domocan KoalaBoard Carte fille 32 entrÃ©es](/Fichiers%20(traversant)/3D_dessus.jpg)
+
+Carte fille compatible [KoalaBoard](https://github.com/domocan-koala/KoalaBoard) pour relier 32 boutons-poussoirs avec votre systÃ¨me domotique [Domocan Master Ã‰dition](https://www.abcelectronique.com/bigonoff/forum/forumdisplay.php?fid=22).
 
 ## Historique
 	
-	* 23/02/18 V1.0 : Première version mise en ligne
+	* 23/02/18 V1.0 : PremiÃ¨re version mise en ligne
